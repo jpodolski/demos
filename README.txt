@@ -27,7 +27,7 @@ There are a few things to note:
   - They're numbered within folders. It's a recommended listening order based 
     simply on how much I like the demos.
 
-  - All parts in these tracks were recorded and mixed by me. The lofi samples
+  - All parts in these tracks were recorded and mixed by me. The lofi tracks were
     looped through a DD7 pedal, and drummed over in real time. Most of those are
     recorded onto a phone. The others are overdubbed in Logic using virtual amps 
     and software instruments, with the occasional use of MIDI drum samples.
@@ -38,7 +38,7 @@ There are a few things to note:
     curious.
 
   - I know that this is a lot of effort just for a demo folder, and that I may seem 
-    overeager, but really I'm just serious about finding a likeminded 
+    overeager, but really I'm just serious about finding like-minded 
     collaborator(s). I wanted to assemble a decent sample of stuff that I could 
     show to many people, rather than sending bits and pieces to everyone I talk to. 
     If this stuff isn't for you, that's fine! We can work on a different genre, or 
