@@ -1,4 +1,6 @@
-**
+
+
+********************************************************************************
  _   _      _ _       _ 
 | | | |    | | |     | |
 | |_| | ___| | | ___ | |
@@ -6,7 +8,7 @@
 | | | |  __/ | | (_) |_|
 \_| |_/\___|_|_|\___/(_)
 
-**
+********************************************************************************
 
 This is a public directory of 40 short demos that I show to potential/current 
 collaborators and friends. It is intended to best display the range in the kinds of 
@@ -45,8 +47,13 @@ There are a few things to note:
   - If it happens that you do like what you hear, this is just a fraction of around 
     200 scraps, song starts, and miscellaneous ideas, so let's get collaborating!
 
+
 Thanks for checking this out, I hope we work together.
 -Jeff
+
+
+********************************************************************************
+
 
                                             |\
                                             | |
