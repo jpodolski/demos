@@ -37,7 +37,8 @@ There are a few things to note:
 
   - I know that this is a lot of effort just for a demo folder, and that I may seem 
     overeager, but really I'm just serious about finding a likeminded 
-    collaborator(s). I wanted to assemble a decent sample of stuff that I could show to many people, rather than sending bits and pieces to everyone I talk to. 
+    collaborator(s). I wanted to assemble a decent sample of stuff that I could 
+    show to many people, rather than sending bits and pieces to everyone I talk to. 
     If this stuff isn't for you, that's fine! We can work on a different genre, or 
     not at all.
 
