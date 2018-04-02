@@ -16,8 +16,8 @@ I'm interested in.
 There are a few things to note:
 
   - It's recommended that you download the folder from Github if you have the
-    space (53MB). Many of the uncompressed file formats won't play in Github. You
-    can clone the repository or download it as a zip in the top-right corner.
+    space (53MB), as many of the uncompressed file formats won't play in Github.
+    You can clone the repository or download it as a zip in the top-right corner.
 
   - A lot of these are loops, so most of the time you don't need to bother with 
     listening to the whole file, you'll get the gist in the first minute.
