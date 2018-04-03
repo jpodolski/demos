@@ -34,8 +34,8 @@ There are a few things to note:
 
   - To appease my insecurity: Note that these demos go back to ~2011, and I've 
     improved a good bit as a musician, and especially as a vocalist since then.
-    "09 sandbox.mp3" contains a recent recording of me dubbing harmonies if you're
-    curious.
+    "09 sandbox.mp3" contains a recent recording snippet of me dubbing harmonies
+    if you're curious.
 
   - I know that this is a lot of effort just for a demo folder, and that I may seem 
     overeager, but really I'm just serious about finding like-minded 
@@ -46,6 +46,29 @@ There are a few things to note:
 
   - If it happens that you do like what you hear, this is just a fraction of around 
     200 scraps, song starts, and miscellaneous ideas, so let's get collaborating!
+
+
+
+In addition, here is what I would consider the 15 albums that most influence the
+kind of music I want to make.
+
+
+The Olivia Tremor Control - Dusk at Cubist Castle
+of Montreal - Coquelicot Asleep in the Poppies
+MGMT - Congratulations
+The Strokes - Angles
+Sufjan Stevens - Illinois
+Baths - Cerulean
+The Beach Boys - Pet Sounds
+Car Seat Headrest - Twin Fantasy
+The Beatles - Magical Mystery Tour
+The Shins - Chutes Too Narrow
+Simon & Garfunkel - Bridge Over Troubled Water
+Dirty Projectors - Swing Lo Magellan
+Tokyo Police Club - Champ
+Brightside - Now and Loud
+Radiohead - The Bends
+
 
 
 Thanks for checking this out, I hope we work together.
