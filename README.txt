@@ -27,10 +27,11 @@ There are a few things to note:
   - They're numbered within folders. It's a recommended listening order based 
     simply on how much I like the demos.
 
-  - All parts in these tracks were recorded and mixed by me. The lofi tracks were
-    looped through a DD7 pedal, and drummed over in real time. Most of those are
-    recorded onto a phone. The others are overdubbed in Logic using virtual amps 
-    and software instruments, with the occasional use of MIDI drum samples.
+  - All parts in these tracks were recorded and mixed by me. The Phone Recording
+    tracks were looped through a DD7 pedal, and drummed over in real time. Most
+    of those are recorded onto a phone. The others are overdubbed in Logic using
+    virtual amps and software instruments, with the occasional use of MIDI
+    drum samples.
 
   - To appease my insecurity: Note that these demos go back to ~2011, and I've 
     improved a good bit as a musician, and especially as a vocalist since then.
