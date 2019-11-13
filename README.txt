@@ -38,13 +38,6 @@ There are a few things to note:
     "09 sandbox.mp3" contains a recent recording snippet of me dubbing harmonies
     if you're curious.
 
-  - I know that this is a lot of effort just for a demo folder, and that I may seem 
-    overeager, but really I'm just serious about finding like-minded 
-    collaborator(s). I wanted to assemble a decent sample of stuff that I could 
-    show to many people, rather than sending bits and pieces to everyone I talk to. 
-    If this stuff isn't for you, that's fine! We can work on a different genre, or 
-    not at all.
-
   - If it happens that you do like what you hear, this is just a fraction of around 
     200 scraps, song starts, and miscellaneous ideas, so let's get collaborating!
 
